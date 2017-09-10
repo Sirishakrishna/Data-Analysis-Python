@@ -17,6 +17,7 @@ g.add_node(5)
 
 g.add_edge(0,4)
 g.add_edge(6,7)
+g.add_edges_from([(2,3),(6,7)])
 
 # Graph info
 
