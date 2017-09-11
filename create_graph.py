@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 
 g=ny.Graph()
 
+# If we want to create a digraph
+
+g=ny.DiGraph()
+
 # Creating nodes
 
 g.add_node(0)
