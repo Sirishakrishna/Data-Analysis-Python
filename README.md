@@ -16,4 +16,5 @@ Exploring Graphs and Social Network Analytics Using Python
 ## Numpy
 
 *Numpy is the core library for scientific computing in Python.
+
 *It provides high-performance multidimensional array object and tools for working with these arrays.
